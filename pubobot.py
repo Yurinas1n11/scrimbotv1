@@ -27,4 +27,4 @@ async def bot_run(): #background thinking
 			
 
 client.c.loop.create_task(bot_run())
-client.run(NzEzMzYzODcwMTEwMTg3NjQx.XxiTzg.a2i8mpq2MIBKaXZ_n1CJ-9D4tAQ) #runs until ctrl+c
+client.run() #runs until ctrl+c
