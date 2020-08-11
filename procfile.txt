@@ -1,1 +1,1 @@
-worker python:log.py
+python:pubobot.py
